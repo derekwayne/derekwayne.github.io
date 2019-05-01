@@ -1,35 +1,17 @@
-# Landing Page Jekyll theme
+# Derek Wayne's Portfolio
 
-Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
+## Updates
 
-## How to use
- - Place a image in `/img/services/`
- - Create posts to display your services. Use the follow as an example:
+* 2019-05-01 Launched new website (still under development)
 
-```txt
----
-layout: default
-img: ipad.png
-category: Services
-title: The service title
----
-The description of this service
-```
+## Purpose
 
-## Demo
-View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
+To provide a platform for others to view past and current projects, generate interest for collaboration, help others interested in the topics, and to document my goal of lifelong learning.
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
+## Tools
 
-===
+Updated as they are used -- current major tools include:
 
-For more Jekyll details, read [documentation](http://jekyllrb.com/).
-This Jekyll theme used [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme/) as reference.
-
-## License
-The contents of this repository are licensed under the [Apache
-2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
-
-## Version
-1.0.1
+* [R](https://cran.r-project.org/) Statistical computing
+* [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html) Elegant plotting and graphics
+* [shiny](https://cran.r-project.org/web/packages/shiny/index.html) Web application framework
