@@ -1,0 +1,8 @@
+---
+layout: default
+img: parrots.jpg 
+category: Services
+title: Image Segmentation:<br>Applications to Neuroimaging 
+description: |
+---
+ Unsupervised learning algorithms are especially useful in the task of [Image Segmentation](https://derekwayne.github.io/image_segmentation/), which is defined as the process of clustering pixels based on intensity, colour, position, depth, texture, etc. The goal of this post is to look at the application to segmenting brain MRI scans.
