@@ -2,7 +2,7 @@
 layout: default
 img: brain.png 
 category: Services
-title: [Segmentation of Brain MR Images](https://derekwayne.github.io/brain_segmentation/):<br>A modern approach to tissue classification 
+title: <a href="https://derekwayne.github.io/brain_segmentation/">Segmentation of Brain MR Images</a>:<br>A modern approach to tissue classification 
 description: |
 ---
 
