@@ -1,8 +1,9 @@
 ---
 layout: default
-img: parrots.jpg 
+img: brain.jpg 
 category: Services
-title: Image Segmentation:<br>Applications to Neuroimaging 
+title: Segmentation of Brain MR Images:<br>A modern approach to tissue classification 
 description: |
 ---
- Unsupervised learning algorithms are especially useful in the task of [Image Segmentation](https://derekwayne.github.io/image_segmentation/), which is defined as the process of clustering pixels based on intensity, colour, position, depth, texture, etc. The goal of this post is to look at the application to segmenting brain MRI scans.
+
+The problem of autonomous segmentation of brain tissues has led to research on complex algorithms that model the spatial relationships in three dimensional scans. Particularly it presents a fascinating study of graph partitioning methods. In this project I achieve an accurate segmentation of a full MRI scan of the brain using modern methods.
