@@ -2,8 +2,8 @@
 layout: default
 img: brain.png 
 category: Services
-title: Segmentation of Brain MR Images:<br>A modern approach to tissue classification 
+title: [Segmentation of Brain MR Images](https://derekwayne.github.io/brain_segmentation/):<br>A modern approach to tissue classification 
 description: |
 ---
 
-The problem of autonomous [segmentation](https://derekwayne.github.io/brain_segmentation/) of brain tissues has led to research on complex algorithms that model the spatial relationships in three dimensional scans. Particularly it presents a fascinating study of graph partitioning methods. In this project I achieve an accurate segmentation of a full MRI scan of the brain using modern methods.
+The problem of autonomous segmentation of brain tissues has led to research on complex algorithms that model the spatial relationships in three dimensional scans. Particularly it presents a fascinating study of graph partitioning methods. In this project I achieve an accurate segmentation of a full MRI scan of the brain using modern methods.
