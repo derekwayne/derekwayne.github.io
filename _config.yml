@@ -6,8 +6,7 @@ url: https://derekwayne.github.io
 title: Wayne Analytics 
 email: derekwayne4@gmail.com 
 author: Derek Wayne 
-description: > # "Write an awesome description for your new site here. 
-  Derek Wayne's data science portfolio. A collection of recent projects.
+description: Derek Wayne's Data Science and Machine Learning Project Portfolio
 copyright: 'Copyright &copy; 2019 Derek Wayne. All Rights Reserved.'
 
 # ----------------------- #
@@ -17,6 +16,9 @@ copyright: 'Copyright &copy; 2019 Derek Wayne. All Rights Reserved.'
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+plugins:
+        - jekyll-seo-tag
 
 # ----------------------- #
 #   3rd Party Settings    #
@@ -28,4 +30,4 @@ social:
   - title: github
     url: https://github.com/derekwayne
   - title: linkedin
-    url: 
+    url: https://www.linkedin.com/in/derek-wayne/ 
