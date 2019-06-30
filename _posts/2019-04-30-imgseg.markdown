@@ -1,6 +1,6 @@
 ---
 layout: default
-img: brain\_seg.png 
+img: brain2.png 
 category: Services
 title: <a href="https://derekwayne.github.io/brain_segmentation/">Segmentation of Brain MR Images</a>:<br>A modern approach to tissue classification 
 description: |
