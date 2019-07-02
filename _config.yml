@@ -23,6 +23,8 @@ plugins:
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
+# Google Analytics
+google_analytics: UA—138576131-1
 
 social:
   - title: twitter
